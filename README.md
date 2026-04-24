@@ -135,6 +135,9 @@ mosquitto_sub -t test/topic
 ```bash
 mosquitto_pub -t test/topic -m "Hello from CLI"
 ```
+## 📷 Screenshots
+
+![API Test](OUT.png)
 
 ---
 
